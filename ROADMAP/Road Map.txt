@@ -1,0 +1,177 @@
+================================================
+---Road Map for Mini-Project (Overall Process)---
+================================================
+
+------------------------------------------------------------------------------
+A.Libraries
+
+
+B.Data Preview
+	1.basic operations
+	2.Description
+	3.information
+	4.Memory Utilisation
+
+
+C.Data Cleaning
+	1.Remove irrelevant observations
+	2.Remove duplicate
+	3.filter unwanted outliers
+	4.missing data
+	5.Nan
+		a.dropping - column
+		d.droping - rows
+		c.filling - rows
+	6.Binning
+		a.equi-width
+		b.equi-depth
+		c.mean
+	7.Replacements
+		a.name
+		b.values
+		c.elimination
+		d.classes - dependent
+		e.classes - independent
+		f.classes - priority
+
+
+D.Data Encoding 
+	1.One Hot Encoder
+	2.Label Binarizer
+
+E.Data Normalization
+	1.Standard Scalar
+	2.Min Max Scalar
+	3.Z Score Scalar - std
+
+
+F.Unsupervised on Data
+	X.Clustering
+		1.Flat Clustering
+			a.K Means 
+			b.K Medoids 
+
+
+G.Features on Data
+	X.Feature Selection Methods
+		1.Filter Methods 
+			a.Observation 
+			b.correlation 
+			d.Variance Threshold
+		2.Wrapper Methods
+			a.Forward Selection
+				1.SFS
+			b.Backward Elimination
+				1.SFS
+			c.Bidirectional Elimination
+				1.SFS	
+		3.Embedded Methods
+			a.DT
+
+	Y.Feature Extraction Methods
+		1.PCA
+
+
+H.Supervised on Data
+	X.Classification
+		1. DT 
+		2. RF 
+		3. Support Vector Machine (SVM)
+		4. Logistic Regression
+		5. Linear Regression 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linear reg
+Multi-Linear reg
+Poly-Linear reg
+Gradient Descent
+Logistic reg - 1
+Perceptron
+Support Vector Machine
+KNN - 1
+DT - #
+RF - 1
+PCA - #
+
+KNN
+RF
+LR
+
+
+
+
+
+
+K Medoids done
+correlation done
+
+year vaala thing in recommendation
+
+decision tree to look better
+
+end mein put a chart of comparision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
